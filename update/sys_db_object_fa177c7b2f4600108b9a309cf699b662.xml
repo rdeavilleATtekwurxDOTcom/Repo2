@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
+    <sys_db_object action="INSERT_OR_UPDATE">
+        <access/>
+        <actions_access>false</actions_access>
+        <alter_access>false</alter_access>
+        <caller_access/>
+        <client_scripts_access>false</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>false</create_access>
+        <create_access_controls>false</create_access_controls>
+        <delete_access>false</delete_access>
+        <extension_model/>
+        <is_extendable>false</is_extendable>
+        <label>My MNEw Web Service Import Set</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>x_363015_work_assi_my_mnew_web_service_i</name>
+        <number_ref/>
+        <provider_class/>
+        <read_access>true</read_access>
+        <scriptable_table>false</scriptable_table>
+        <super_class display_value="Import Set Row" name="sys_import_set_row">471603a52f010010c57149e72799b663</super_class>
+        <sys_class_code/>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_class_path/>
+        <sys_created_by>robin</sys_created_by>
+        <sys_created_on>2020-01-06 16:42:00</sys_created_on>
+        <sys_id>fa177c7b2f4600108b9a309cf699b662</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Work Assi My Mnew Web Service I</sys_name>
+        <sys_package display_value="Work Assignment" source="x_363015_work_assi">56cc0cfa2f4a80108b9a309cf699b63b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Work Assignment">56cc0cfa2f4a80108b9a309cf699b63b</sys_scope>
+        <sys_update_name>sys_db_object_fa177c7b2f4600108b9a309cf699b662</sys_update_name>
+        <sys_updated_by>robin</sys_updated_by>
+        <sys_updated_on>2020-01-06 16:42:00</sys_updated_on>
+        <update_access>false</update_access>
+        <user_role/>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+</record_update>
