@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_page">
+    <sys_ui_page action="INSERT_OR_UPDATE">
+        <category>general</category>
+        <client_script/>
+        <description>Support Contact Details</description>
+        <direct>false</direct>
+        <endpoint>x_363015_work_assi_Support Contact Details.do</endpoint>
+        <html><![CDATA[<?xml version="1.0" encoding="utf-8" ?>
+<j:jelly trim="false" xmlns:j="jelly:core" xmlns:g="glide" xmlns:j2="null" xmlns:g2="null">
+<html>
+<head>
+<style>
+body {
+  padding-top: 40px !important;
+  padding-left: 40px !important;
+  padding-right: 40px !important
+}
+</style>
+</head>
+<body>
+<img src="tekwurx_logo2.jpg"/>
+<h1><strong>Support Contact Details</strong></h1>
+<h3>Email: info@tekwurx.com</h3>
+<h3>Address: 12 Power House, Higham Mead, Chesham, Bucks. HP5 2AH. UK</h3>
+<br/>
+<button id="back" class="btn btn-default" type="button" onclick="window.history.back()">Back</button>
+</body>
+</html>		
+</j:jelly>
+]]></html>
+        <name>Support Contact Details</name>
+        <processing_script/>
+        <sys_class_name>sys_ui_page</sys_class_name>
+        <sys_created_by>robin</sys_created_by>
+        <sys_created_on>2020-01-09 16:22:40</sys_created_on>
+        <sys_id>699e48bc2fd200108b9a309cf699b6b7</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Support Contact Details</sys_name>
+        <sys_package display_value="Work Assignment" source="x_363015_work_assi">56cc0cfa2f4a80108b9a309cf699b63b</sys_package>
+        <sys_policy>protected</sys_policy>
+        <sys_scope display_value="Work Assignment">56cc0cfa2f4a80108b9a309cf699b63b</sys_scope>
+        <sys_update_name>sys_ui_page_699e48bc2fd200108b9a309cf699b6b7</sys_update_name>
+        <sys_updated_by>robin</sys_updated_by>
+        <sys_updated_on>2020-01-09 16:26:35</sys_updated_on>
+    </sys_ui_page>
+</record_update>
