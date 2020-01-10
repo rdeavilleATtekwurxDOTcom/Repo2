@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="DELETE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_363015_work_assi.config_user</name>
+        <requires_subscription>-1</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <suffix>config_user</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>robin</sys_created_by>
+        <sys_created_on>2020-01-10 12:05:01</sys_created_on>
+        <sys_id>441e58412f9240108b9a309cf699b67c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_363015_work_assi.config_user</sys_name>
+        <sys_package display_value="Work Assignment" source="x_363015_work_assi">56cc0cfa2f4a80108b9a309cf699b63b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Work Assignment">56cc0cfa2f4a80108b9a309cf699b63b</sys_scope>
+        <sys_update_name>sys_user_role_441e58412f9240108b9a309cf699b67c</sys_update_name>
+        <sys_updated_by>robin</sys_updated_by>
+        <sys_updated_on>2020-01-10 12:05:01</sys_updated_on>
+    </sys_user_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Work Assignment">56cc0cfa2f4a80108b9a309cf699b63b</application>
+        <file_path/>
+        <instance_id>b44e5fd5db5f73c89df22f17d4961921</instance_id>
+        <instance_name>dev91664</instance_name>
+        <name>sys_user_role_441e58412f9240108b9a309cf699b67c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role"><sys_user_role action="INSERT_OR_UPDATE"><assignable_by/><can_delegate>true</can_delegate><description/><elevated_privilege>false</elevated_privilege><grantable>true</grantable><includes_roles/><name>x_363015_work_assi.config_user</name><requires_subscription>-1</requires_subscription><scoped_admin>false</scoped_admin><suffix>config_user</suffix><sys_class_name>sys_user_role</sys_class_name><sys_created_by>robin</sys_created_by><sys_created_on>2020-01-10 12:05:01</sys_created_on><sys_id>441e58412f9240108b9a309cf699b67c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_363015_work_assi.config_user</sys_name><sys_package display_value="Work Assignment" source="x_363015_work_assi">56cc0cfa2f4a80108b9a309cf699b63b</sys_package><sys_policy/><sys_scope display_value="Work Assignment">56cc0cfa2f4a80108b9a309cf699b63b</sys_scope><sys_update_name>sys_user_role_441e58412f9240108b9a309cf699b67c</sys_update_name><sys_updated_by>robin</sys_updated_by><sys_updated_on>2020-01-10 12:05:01</sys_updated_on></sys_user_role></record_update>]]></payload>
+        <payload_hash>2087923428</payload_hash>
+        <record_name>x_363015_work_assi.config_user</record_name>
+        <reverted_from/>
+        <source>16cc0cfa2f4a80108b9a309cf699b63d</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>robin</sys_created_by>
+        <sys_created_on>2020-01-10 12:05:01</sys_created_on>
+        <sys_id>1c1ed44d2f9240108b9a309cf699b639</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16f8f57ea620000001</sys_recorded_at>
+        <sys_updated_by>robin</sys_updated_by>
+        <sys_updated_on>2020-01-10 12:05:01</sys_updated_on>
+        <type>Role</type>
+        <update_guid>541ed44d0e924010c11c85d44607d939</update_guid>
+        <update_guid_history>541ed44d0e924010c11c85d44607d939:2087923428</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_363015_work_assi.config_user">8af93c452f1640108b9a309cf699b676</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>robin</sys_created_by>
+        <sys_created_on>2020-01-10 14:06:56</sys_created_on>
+        <sys_db_object display_value="" name="sys_user_role">sys_user_role</sys_db_object>
+        <sys_id>52a25652b7d2471a904ede52981f9c24</sys_id>
+        <sys_metadata>441e58412f9240108b9a309cf699b67c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_363015_work_assi.config_user</sys_name>
+        <sys_package display_value="Work Assignment" source="x_363015_work_assi">56cc0cfa2f4a80108b9a309cf699b63b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Work Assignment">56cc0cfa2f4a80108b9a309cf699b63b</sys_scope>
+        <sys_scope_delete display_value="">5d82b917bdb649d3a9dc0278da7e2e29</sys_scope_delete>
+        <sys_update_name>sys_user_role_441e58412f9240108b9a309cf699b67c</sys_update_name>
+        <sys_update_version display_value="sys_user_role_441e58412f9240108b9a309cf699b67c">1c1ed44d2f9240108b9a309cf699b639</sys_update_version>
+        <sys_updated_by>robin</sys_updated_by>
+        <sys_updated_on>2020-01-10 14:06:56</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
